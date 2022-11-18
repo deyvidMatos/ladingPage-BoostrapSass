@@ -1,0 +1,17 @@
+.formBody{
+    background-color: $form-color;
+    
+    & img{
+        width: 180px;
+    }
+    
+    & .form-check-label{
+        color: white;
+    }
+}
+p{
+        color: white;
+}
+.footer{
+    margin-top: 24px;
+}
